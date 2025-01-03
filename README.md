@@ -6,6 +6,8 @@ Traditional language models often rely on **tokenization**, a process that break
 
 ### **How does the Byte Latent Transformer (BLT) work?**
 
+![Screenshot 2025-01-03 at 10 22 26 AM](https://github.com/user-attachments/assets/11876ede-07d2-40d3-a0e9-b45158b7102c)
+
 The BLT uses a novel method of processing language data, which can be broken down into the following steps:
 
 *   **Input Byte Sequence:** The BLT takes a sequence of raw bytes as its input. For example, the input might be the byte sequence for the string "The cat sat on the mat.".
